@@ -41,6 +41,10 @@ img {
     color: var(--color-brand);
 }
 
+.bg-base {
+    background-color: var(--color-base);
+}
+
 .text-colombia {
     background: #FFCD00;
     background: linear-gradient(to bottom, #FFCD00 40%, #003087 60%, #C8102E 80%);
@@ -59,6 +63,12 @@ img {
     padding-bottom: 80px;
     border-bottom: 2px solid rgba(255, 255, 255, 0.2);
 }
+
+.shadow-effect {
+    transition: all 0.5s;
+}
+
+
 
 /* NAVBAR */
 
